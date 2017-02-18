@@ -1,0 +1,62 @@
+h1{
+	background-color: grey;
+	text-align: center;
+}
+
+#pHeader {
+	background-color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+}
+
+nav {
+	background-color: gray;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.section {
+	background-color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	float: left;
+	width: 495px;
+	height: 500;
+	margin-left: 100px;
+}
+
+article {
+	background-color: blue;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.aside {
+	background-color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	float: right;
+	width: 450px;
+	height: 200px;
+	margin-right: 100px;
+}
+
+.footer {
+	background-color: gray;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	float: bottom;
+}
